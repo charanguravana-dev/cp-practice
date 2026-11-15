@@ -1,0 +1,12 @@
+# Ignore all compiled extensionless binaries by default
+*
+
+# Allow folders, C/C++ source files, input files, and .gitignore
+!*/
+!*.cpp
+!*.c
+!*.h
+!*.hpp
+!*.txt
+!*.md
+!.gitignore
